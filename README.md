@@ -4,7 +4,7 @@ Aggregator repository for SIA modules and resources developed by the Applied Com
 **metadata**
 * [bibliography analysis](bibanalyzer) [1]
 *  [cataloguing](cataloguing) (internal, only) [2]
-* [subject indexing](subject-indexing) (internal, only) [1] 
+* [subject indexing](subject-indexing) (internal, only) [2] 
 
 **data extraction** (natural language to knowledge graphs)
 * [ACoLi CoNLL libraries](https://github.com/acoli-repo/conll/) for wrapping NLP tools and transforming their output [2,3,4]
