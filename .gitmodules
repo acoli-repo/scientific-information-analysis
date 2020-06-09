@@ -1,0 +1,12 @@
+[submodule "bibanalyzer"]
+	path = bibanalyzer
+	url = https://github.com/acoli-repo/bibanalyzer
+[submodule "subject-indexing"]
+	path = subject-indexing
+	url = https://github.com/acoli-repo/SIA-subject-indexing
+[submodule "cataloguing"]
+	path = cataloguing
+	url = https://github.com/acoli-repo/SIA-cataloguing
+[submodule "book-gen"]
+	path = book-gen
+	url = https://github.com/acoli-repo/book-gen
